@@ -5,4 +5,21 @@ the pdf is valid. To certify that the pdf is valid, it should satisfy a few give
 
 I used python to solve the problem with the help of additional libraries like pymupdf and flask
 
+The entire applications is hosted using pythonanywhere platform.
+
+The app.py is the main file containg the code for the algorithm and the website.
+
+The rest of the python files were used for testing and developing solutions for the given rules.
+
+The following are the basic requirements for running the app.py is:
+  -python 3.7 or above must be used
+  -pyrebase library must be installed. pip install pyrebase4 is the command for installing this library.
+  -pyMuPDF library must be installed. pip install PyMuPDF is the command for installing this library.
+  -flask library must be installed. Command for installing - pip install Flask
+  -and a few additional libraries must be installed with this command - pip install pymupdf-fonts
+  
+The application uses firebases for uploading files to the server.
+
+To run the app locally run the app.py files after meeting all the requirements and go to http://127.0.0.1:5000/ to view the app.
+
 This is the link for the website to test my application: http://ramnath2001.pythonanywhere.com/
