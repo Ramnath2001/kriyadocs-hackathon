@@ -12,11 +12,11 @@ The app.py is the main file containg the code for the algorithm and the website.
 The rest of the python files were used for testing and developing solutions for the given rules.
 
 The following are the basic requirements for running the app.py is:
-  -python 3.7 or above must be used
-  -pyrebase library must be installed. pip install pyrebase4 is the command for installing this library.
-  -pyMuPDF library must be installed. pip install PyMuPDF is the command for installing this library.
-  -flask library must be installed. Command for installing - pip install Flask
-  -and a few additional libraries must be installed with this command - pip install pymupdf-fonts
+1. python 3.7 or above must be used
+2. pyrebase library must be installed. pip install pyrebase4 is the command for installing this library.
+3. pyMuPDF library must be installed. pip install PyMuPDF is the command for installing this library.
+4. flask library must be installed. Command for installing - pip install Flask
+5. and a few additional libraries must be installed with this command - pip install pymupdf-fonts
   
 The application uses firebases for uploading files to the server.
 
