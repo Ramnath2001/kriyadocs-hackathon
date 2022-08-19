@@ -20,6 +20,6 @@ The following are the basic requirements for running the app.py is:
   
 The application uses firebases for uploading files to the server.
 
-To run the app locally run the app.py files after meeting all the requirements and go to http://127.0.0.1:5000/ to view the app.
+To run the app locally run the app.py file after meeting all the requirements and go to http://127.0.0.1:5000/ to view the app.
 
 This is the link for the website to test my application: http://ramnath2001.pythonanywhere.com/
